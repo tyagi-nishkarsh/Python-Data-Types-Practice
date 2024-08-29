@@ -1,0 +1,27 @@
+Python Data Types Practical Problems
+
+1. Create a list of 10 integers and find the maximum and minimum values.
+2. Create a tuple with 5 elements and access the third element.
+3. Create a set with unique elements from a list of integers with duplicates.
+4. Add and remove elements from a set.
+5. Create a dictionary with 5 key-value pairs and access a value using its key.
+6. Convert a list to a tuple and a tuple to a list.
+7. Find the length of a list, tuple, set, and dictionary.
+8. Sort a list in ascending and descending order.
+9. Create a dictionary and access all keys and values separately.
+10. Create a list of dictionaries and access specific values from them.
+11. Merge two dictionaries.
+12. Check if a key exists in a dictionary and remove a key-value pair.
+13. Create a nested dictionary and access values from the inner dictionary.
+14. Find the common elements between two lists using sets.
+15. Create a list comprehension to generate a list of squares of integers from 1 to 10.
+16. Create a dictionary with keys as strings and values as lists and access a specific element.
+17. Concatenate two tuples and find the length of the resulting tuple.
+18. Find the difference between two sets and check if one set is a subset of another.
+19. Create a dictionary with 3 keys and default values using the fromkeys() method.
+20. Create a set and check for common elements with another set using intersection.
+21. Create a dictionary where each key is a character and the value is its ASCII value.
+22. Create a list of tuples and sort it based on the second element of each tuple.
+23. Write a Python program to remove duplicates from a list without using sets.
+24. Create a tuple of tuples and access the first element of the second tuple.
+25. Write a program to merge two dictionaries and sum the values of common keys.
